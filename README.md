@@ -4,15 +4,15 @@
 - 💻**Focado em Python**
 - 💼**Preparando-se para o mercado de tecnologia**
 ---
-## Sobre mim
+# Sobre mim
 - 👨‍🎓Atualmente cursando **Informática** na escola Etec Alberto Santos Dumont
 - 📚Sempre aprendendo novas tecnologias e boas práticas de programação
 ---
-## Tecnologias que estudo
+# Tecnologias que estudo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-## Como me encontrar
+# 🌐Como me encontrar
 
 <p align="left">
   <a href="https://www.instagram.com/Nick_fe7/">
