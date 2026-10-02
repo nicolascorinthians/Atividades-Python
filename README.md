@@ -1,12 +1,12 @@
 # 😃👍 Olá, eu sou Nicolas!
 
 - 👨‍💻**Estudante de Programação**
-- **Focado em Python**
-- **Preparando-se para o mercado de tecnologia**
+- 💻**Focado em Python**
+- 💼**Preparando-se para o mercado de tecnologia**
 ---
 ## Sobre mim
-- Atualmente cursando **Informática** na escola Etec Alberto Santos Dumont
-- Sempre aprendendo novas tecnologias e boas práticas de programação
+- 👨‍🎓Atualmente cursando **Informática** na escola Etec Alberto Santos Dumont
+- 📚Sempre aprendendo novas tecnologias e boas práticas de programação
 ---
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
