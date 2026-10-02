@@ -8,7 +8,7 @@
 - 👨‍🎓Atualmente cursando **Informática** na escola Etec Alberto Santos Dumont
 - 📚Sempre aprendendo novas tecnologias e boas práticas de programação
 ---
-# Tecnologias que estudo
+# ⚙️Tecnologias que estudo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
