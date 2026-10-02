@@ -9,14 +9,7 @@
 - 📚Sempre aprendendo novas tecnologias e boas práticas de programação
 ---
 ## Tecnologias que estudo
-<div style="display: inline_block"><br>
-<img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
----
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-
-USUARIO&show_icons=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 ## Como me encontrar
