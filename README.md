@@ -1,6 +1,7 @@
-# Olá, eu sou Nicolas!
+# 😃👍 Olá, eu sou Nicolas!
 
-**Estudante de Programação | Focado em Python |
+👨‍💻**Estudante de Programação 
+Focado em Python
 Preparando-se para o mercado de tecnologia**
 ---
 ## Sobre mim
